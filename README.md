@@ -34,6 +34,7 @@ Anyone can audit this course at no-charge. If you choose to take this course and
 
 
 **Graded:** Databases
+
 **Graded:** Basic SQL
 
 ### WEEK 2
@@ -66,6 +67,7 @@ Anyone can audit this course at no-charge. If you choose to take this course and
 #### In this module, you will learn how to use string patterns and ranges to search data and how to sort and group data in result sets. You will also practice composing nested queries and execute select statements to access data from multiple tables.
 
 **Graded:** Refining Your Results
+
 **Graded:** Functions, Sub-Queries, Multiple Tables
 
 ### WEEK 4
@@ -95,6 +97,7 @@ Anyone can audit this course at no-charge. If you choose to take this course and
 #### In this assignment, you will be working with multiple real world datasets for the city of Chicago. You will be asked questions that will help you understand the data just as you would in the real wold. You will be assessed on the correctness of your SQL queries and results.
 
 **Graded:** Peer-graded Assignment
+
 **Graded:** Final Exam
 
 ### WEEK 6
@@ -114,6 +117,7 @@ Anyone can audit this course at no-charge. If you choose to take this course and
 #### This module covers some advanced SQL techniques that will be useful for Data Engineers. If you are following the Data Engineering track, you must complete this module. Completion of this module is not required for those completing the Data Science or Data Analyst tracks. In this module, you will learn how to build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins.
 
 **Graded:** Views, Stored Procedures and Transactions
+
 **Graded:** JOIN operations
 #
 #
